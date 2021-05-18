@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - [ ] mini vista 
 - [ ] integration engine (interoperability) 
 - [ ] VTE assessment tool 
+- [ ] Synthetic Patient Maternity Simulator. The goal is to output synthetic, realistic (but not real), patient data and associated maternity health records in a variety of formats.
 - [ ] medication prescribing tool 
 - [ ] guideline engine 
 - [ ] datix alternatove (governance and risk) app 
