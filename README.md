@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - [ ] datix alternatove (governance and risk) app 
 - [ ] template engine
 - [ ] MBRACE reporting !
+- [ ] CDS and guidelines tool
 - 🌱 I’m currently learning health informatics and data science 
 - 👯 I’m looking to collaborate on (Electronic Health Record) EHR projects
 - 🤔 I’m looking for help with my EHR project with modern editor 
