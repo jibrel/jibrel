@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 - [ ] template engine
 - [ ] MBRACE reporting !
 - [ ] CDS and guidelines tool
+
+
+- [ ] feedback forms with students
+- [ ] internal communication tool
+- [ ] eConsent
+- [ ] RCT and research library
+- [ ] audit tools 
 - 🌱 I’m currently learning health informatics and data science 
 - 👯 I’m looking to collaborate on (Electronic Health Record) EHR projects
 - 🤔 I’m looking for help with my EHR project with modern editor 
