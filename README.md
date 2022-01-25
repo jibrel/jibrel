@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [ ] Synthetic Patient Maternity Simulator. The goal is to output synthetic, realistic (but not real), patient data and associated maternity health records in a variety of formats.
 - [ ] medication prescribing tool 
 - [ ] guideline engine 
-- [ ] datix alternatove (governance and risk) app 
+- [ ] datix alternative (governance and risk) app 
 - [ ] template engine
 - [ ] MBRACE reporting !
 - [ ] CDS and guidelines tool
