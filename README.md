@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - [ ] template engine
 - [ ] MBRACE reporting !
 - [ ] CDS and guidelines tool
+- ] ] telemedicine and remote MDT 
+- [ ] low code front end and forms 
+- [ ] email communication with confidentiality to patients 
+- [ ] internal communications 
 
 
 - [ ] feedback forms with students
