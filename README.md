@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yazid Jibrel 👋
 
 I'm a health informatics enthusiast and developer passionate about improving healthcare through technology.
 
