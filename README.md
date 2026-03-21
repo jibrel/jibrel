@@ -16,7 +16,7 @@ I'm working on several healthcare-related applications:
 7. billing and invoicing
 8. EHR
 9. pharamcy
-10. AI and dictation
+10. AI and dictation, coding, labs, radiology reports
 11. consent
 12. patient education
 13. maternity -> fetal growth charts, partograms, USS reports, fluid balance, VTE, pre eclampsia, FGR, BMI, HDU, vitals, flowsheet, anasthetic and epidural
