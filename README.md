@@ -20,6 +20,8 @@ I'm working on several healthcare-related applications:
 11. consent
 12. patient education
 13. maternity -> fetal growth charts, partograms, USS reports, fluid balance, VTE, pre eclampsia, FGR, BMI, HDU, vitals, flowsheet, anasthetic and epidural
+14. intranet (HR, rota, PACS and radiology, clinical, portfolio and appraisal, billing and accounting, BI, pharmacy, labs, IVF labs, forms, risk management)
+15. Risk management
 
 
 - [X] EHR 
