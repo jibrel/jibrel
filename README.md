@@ -7,6 +7,21 @@ I'm a health informatics enthusiast and developer passionate about improving hea
 I'm working on several healthcare-related applications:
 
 
+1. Qbank
+2. forms and feedback
+3. rota
+4. HR
+5. DM and GDM
+6. portfolio
+7. billing and invoicing
+8. EHR
+9. pharamcy
+10. AI and dictation
+11. consent
+12. patient education
+13. maternity -> fetal growth charts, partograms, USS reports, fluid balance, VTE, pre eclampsia, FGR, BMI, HDU, vitals, flowsheet, anasthetic and epidural
+
+
 - [X] EHR 
 - [ ] medical notes editor 
 - [ ] audit notes like github changes 
